@@ -1,6 +1,5 @@
 //
 //  UIView+Extensin.m
-//  01-appIcon与启动图
 //
 //  Created by apple on 16/10/21.
 //  Copyright © 2016年 apple. All rights reserved.
